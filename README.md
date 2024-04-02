@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![](https://badgen.net/badge/Carlos/Charles/?color=[black]?icon=java)
 
 ![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+![Static Badge](https://img.shields.io/badge/logo-css-blue?logo=css&logoColor=f5f5f5)
