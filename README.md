@@ -7,17 +7,11 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [
-        Javascript,
-        HTML,
-        CSS,
-        Python,
-          Java,
-         CSharp],
+   code: [ Javascript, HTML, CSS, Python, Java, CSharp],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Bootstrap"]
       },
       backEnd: {
          java: ["Spring"],
