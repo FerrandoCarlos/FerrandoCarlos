@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://badgen.net/badge/Carlos/Charles/?color=[black]?icon=[java])
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![](https://badgen.net/badge/Carlos/Charles/?color=[black]?icon=java)
+
