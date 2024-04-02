@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋- Hola a todos 👋
 
 <!--
 **FerrandoCarlos/FerrandoCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/:user/:repo)
