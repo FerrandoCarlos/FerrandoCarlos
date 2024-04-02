@@ -7,7 +7,13 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java, CSharp],
+   code: [
+        Javascript,
+        HTML,
+        CSS,
+        Python,
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />,
+         CSharp],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
